@@ -1,0 +1,6 @@
+Y:\Cайфутдинов Рушан\4 Курс\DirectorWorkSaifutdinov\DirectorWorkSaifutdinov\obj\Debug\DirectorWorkSaifutdinov.csproj.AssemblyReference.cache
+Y:\Cайфутдинов Рушан\4 Курс\DirectorWorkSaifutdinov\DirectorWorkSaifutdinov\obj\Debug\MainWindow.g.cs
+Y:\Cайфутдинов Рушан\4 Курс\DirectorWorkSaifutdinov\DirectorWorkSaifutdinov\obj\Debug\App.g.cs
+Y:\Cайфутдинов Рушан\4 Курс\DirectorWorkSaifutdinov\DirectorWorkSaifutdinov\obj\Debug\DirectorWorkSaifutdinov_Content.g.cs
+Y:\Cайфутдинов Рушан\4 Курс\DirectorWorkSaifutdinov\DirectorWorkSaifutdinov\obj\Debug\DirectorWorkSaifutdinov_MarkupCompile.cache
+Y:\Cайфутдинов Рушан\4 Курс\DirectorWorkSaifutdinov\DirectorWorkSaifutdinov\obj\Debug\DirectorWorkSaifutdinov_MarkupCompile.lref
